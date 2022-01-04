@@ -10,3 +10,8 @@ a:link {
 a:visited {
     color: white;
 }
+
+h1,
+h2 {
+    color: #63a9bb;
+}
